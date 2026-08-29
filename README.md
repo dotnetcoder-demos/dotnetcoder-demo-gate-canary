@@ -4,7 +4,7 @@ Companion demo for <https://dotnetcoder.com/demo-gate-canary/>.
 
 ## Prerequisites
 
-- Node.js 20 or later.
+- Node.js 24 or later.
 
 ## Run
 
