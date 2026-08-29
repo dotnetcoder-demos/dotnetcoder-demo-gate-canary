@@ -1,2 +1,13 @@
-# dotnetcoder-demo-gate-canary
-Reversible local canary for the DotNetCoder public demo repository gate.
+# DotNetCoder Demo Gate Canary
+
+Companion demo for <https://dotnetcoder.com/demo-gate-canary/>.
+
+## Prerequisites
+
+- Node.js 20 or later.
+
+## Run
+
+```bash
+node --test
+```
