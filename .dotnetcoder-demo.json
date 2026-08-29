@@ -1,7 +1,7 @@
 {
   "version": 1,
   "candidate_id": "DNC-DEMO-GATE-CANARY-01",
-  "source_sha256": "8cb769ade5b8272e04e1a5dc95a306a1144af4382a6d0f78e98b70c3efee8f51",
+  "source_sha256": "9d8ac273039d5224bd14d9c7fba3f7625ec99453af1a95fdd2bc20f3a8ace10f",
   "article_url": "https://dotnetcoder.com/demo-gate-canary/",
   "files": [
     "demo.mjs",
